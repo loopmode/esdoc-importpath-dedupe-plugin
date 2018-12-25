@@ -1,6 +1,6 @@
 {
   "name": "esdoc-importpath-dedupe-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin for ESDoc that removes duplicates at the ends of import paths",
   "author": "loopmode <jovica.aleksic@loopmode.de>",
   "homepage": "https://github.com/loopmode/esdoc-importpath-dedupe-plugin",
